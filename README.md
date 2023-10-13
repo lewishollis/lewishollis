@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lewis</h1>
 <h3 align="center">w.i.p</h3>
-<p>👩‍💻 My journey into the world of web development began when I completed a comprehensive web development bootcamp 🤖. This program equipped me with a diverse range of skills, including HTML, CSS, JavaScript, Ruby, Ruby on Rails, Git, and Heroku📚.</p>
-<p>This transition into web development has been an exciting journey for me. It has allowed me to combine my existing expertise in customer service and management with the newfound skills in technology and programming. The ability to create web applications that are user-friendly and visually appealing is a skill I find both challenging and rewarding.
+<p>👩‍💻 My journey into the world of web development began when I completed a comprehensive web development bootcamp 🤖. This program equipped me with a diverse range of skills, including HTML, CSS, JavaScript, Ruby, Ruby on Rails, Git, and Heroku📚.
 
-In addition to my professional background, 🎸 I am also a trained musician, which has instilled in me a deep passion for creativity and self-expression. This creative mindset has proven invaluable in the world of web development, as it allows me to approach problems with a unique perspective and come up with innovative solutions.</p>
+In addition to my professional background, 🎸 I am also a trained musician, which has instilled in me a deep passion for creativity and self-expression.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lewis-hollis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lewishollis" height="30" width="40" /></a>
