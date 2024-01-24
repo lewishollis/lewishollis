@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lewis</h1>
-<h3 align="center">w.i.p</h3>
 <p>👩‍💻 My journey into the world of web development began when I completed a comprehensive web development bootcamp 🤖. This program equipped me with a diverse range of skills, including HTML, CSS, JavaScript, Ruby, Ruby on Rails, Git, and Heroku📚.
 
 In addition to my professional background, 🎸 I am also a trained musician, which has instilled in me a deep passion for creativity and self-expression.</p>
