@@ -19,10 +19,6 @@ A gallery and sales-enquiry app for a non-technical artist, taken from prototype
 - If I can't explain a change, it doesn't ship.
 - I'd rather measure than guess. A lot of my favourite code is a small script that tells me something I didn't know.
 
-## Outside code
-
-I trained as a musician at BIMM. Reading sheet music turned out to be decent practice for reading knitting patterns, which are basically code with more abbreviations.
-
 ### Connect with me
 
 <p align="left">
